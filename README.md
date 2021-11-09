@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @salman4js
 - 👀 I’m interested in Javascript, Mobile Apllication, Web Application, React and Python.
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Node
 - 📫 How to reach me Here's my twitter handle @AzeemStark1
 
 <!---
