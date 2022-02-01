@@ -12,6 +12,7 @@ Hi, I’m Azeem Salman.
 * JavaScript
 * Python
 
+### What Do I Do?
 - 🔭 I’m currently working on Web, Mobile and DSA stuff. 
 - 🌱 I’m currently learning All Kinds Of Developements Stuff 
 - 💬 Ask me about React, React-Native and DSA 
