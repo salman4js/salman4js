@@ -1,13 +1,16 @@
 ### Hi there 👋, I'm Azeem Salman
 #### Keep It Clean & Simple - Development
 I'm learning Web,Mobile Development and DSA. I build projects in my spare time for fun. I really enjoy frameworks like React, React-Native.
- 
+
+----------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Skills and Experience 
 * React
 * React-Native
 * JavaScript
 * Python
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
 
 ### What Do I Do?
 - 🔭 I’m currently working on Web, Mobile and DSA stuff. 
