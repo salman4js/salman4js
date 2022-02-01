@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Azeem Salman
 #### Keep It Clean & Simple - Development
 I'm learning Web,Mobile Development and DSA. I build projects in my spare time for fun. I really enjoy learning frameworks like React, React-Native.
+I also enjoy UI/UX design in general.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
