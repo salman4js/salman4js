@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @salman4js
-- 👀 I’m interested in Javascript,React and Python.
-- 🌱 I’m currently learning React.
-- 📫 Here's my twitter handle @AzeemStark1
+- 👋 Hi, I’m Azeem Salman
+- I learning about Web Development, Mobile Development and DSA.
+- I build projects in my spare time for fun!
+- I really enjoy learning frameworks like React and React-Native!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salman4js)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 salman4js/salman4js is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
