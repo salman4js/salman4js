@@ -6,7 +6,11 @@ Hi, I’m Azeem Salman.
     I really enjoy learning frameworks like React and React-Native!
 
 
-Skills: React | React- Native | JavaScript | Python.
+### Skills and Experience 
+* React
+* React-Native
+* JavaScript
+* Python
 
 - 🔭 I’m currently working on Web, Mobile and DSA stuff. 
 - 🌱 I’m currently learning All Kinds Of Developements Stuff 
