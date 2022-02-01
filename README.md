@@ -1,14 +1,14 @@
 ### Hi there 👋, I'm Azeem Salman
 #### Keep It Clean & Simple - Developement
-Hi, I’m Azeem Salman
+Hi, I’m Azeem Salman.
     I'm learning Web Development, Mobile Development and DSA.
     I build projects in my spare time for fun!
     I really enjoy learning frameworks like React and React-Native!
 
 
-Skills: REACT / REACT-NATIVE/ JS / PYTHON
+Skills: React | React- Native | JavaScript | Python.
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on Web, Mobile and DSA stuff. 
 - 🌱 I’m currently learning All Kinds Of Developements Stuff 
 - 💬 Ask me about React, React-Native and DSA 
 - 📫 How to reach me: Twitter - @AzeemStark1 
