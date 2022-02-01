@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Azeem Salman
-- I learning about Web Development, Mobile Development and DSA.
+- I'm learning Web Development, Mobile Development and DSA.
 - I build projects in my spare time for fun!
 - I really enjoy learning frameworks like React and React-Native!
 
