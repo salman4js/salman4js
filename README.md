@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Azeem Salman
 #### Keep It Clean & Simple - Developement
-Hi, I’m Azeem Salman.
     I'm learning Web Development, Mobile Development and DSA.
     I build projects in my spare time for fun!
     I really enjoy learning frameworks like React and React-Native!
