@@ -8,6 +8,9 @@ I also enjoy UI/UX design in general.
 ### Skills and Experience 
 * React
 * React-Native
+* Express
+* Node
+* MongoDB
 * JavaScript
 * Python
 
