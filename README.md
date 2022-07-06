@@ -5,13 +5,14 @@ Full-Stack Developer, Learning New Technologies. Open to collaborate.
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Skills and Experience 
-* React
-* React-Native
+* React and React Native
 * Express
 * Node
 * MongoDB
 * JavaScript
 * Python
+* Java
+* Selenium
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
