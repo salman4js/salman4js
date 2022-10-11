@@ -9,10 +9,10 @@ Frontend Technologies:
 * HTML, CSS, JavaScript, React, React Native, Backbone, Underscore.
 
 Backend Technologies:  
-* Node - Express.
+* Node - Express, Python - Flask, Django.
 
 Database: 
-* SQL, MongoDB.
+* SQL, MongoDB, SQLlite
 
 Testing: 
 * Selenium.
