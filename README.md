@@ -12,7 +12,7 @@ Backend Technologies:
 * Node - Express, Python - Flask, Django.
 
 Database: 
-* SQL, MongoDB, SQLlite
+* SQL, MongoDB, SQLite
 
 Testing: 
 * Selenium.
