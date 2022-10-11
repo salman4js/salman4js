@@ -5,14 +5,20 @@ Full-Stack Developer, Learning New Technologies. Open to collaborate.
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Skills and Experience 
-* React and React Native
-* Express
-* Node
-* MongoDB
-* JavaScript
-* Python
-* Java
-* Selenium
+Frontend Technologies:
+* HTML, CSS, JavaScript, React, React Native, Backbone, Underscore.
+
+Backend Technologies:  
+* Node - Express.
+
+Database: 
+* SQL, MongoDB.
+
+Testing: 
+* Selenium.
+
+Programming Languages: 
+* JavaScript, Python, Java.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
