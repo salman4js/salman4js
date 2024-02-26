@@ -22,7 +22,7 @@ Full-Stack Developer, Learning New Technologies. Open to collaborate.
 
 ### Skills and Experience 
 Frontend Technologies:
-* HTML, CSS, JavaScript, React, React Native, Backbone, Underscore.
+* HTML, CSS, JavaScript, React, React Native, Backbone, Marionette.
 
 Backend Technologies:  
 * Node - Express, Python - Flask, Django.
